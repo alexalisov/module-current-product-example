@@ -1,3 +1,4 @@
+___TEST___
 This is an example module showing how to retrieve and render the current product on a
 product detail page in Magento without referencing deprecated code like the global registry.
  
